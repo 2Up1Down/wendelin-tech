@@ -1,0 +1,9 @@
+{
+  "slices": {
+    "SectionSnap": {
+      "default-slice": {
+        "primary": {}
+      }
+    }
+  }
+}
