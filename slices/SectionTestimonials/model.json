@@ -1,0 +1,73 @@
+{
+  "id": "section_testimonials",
+  "type": "SharedSlice",
+  "name": "SectionTestimonials",
+  "description": "SectionTestimonials",
+  "variations": [
+    {
+      "id": "default-slice",
+      "name": "Default slice",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "SectionTestimonials",
+      "primary": {
+        "title": {
+          "type": "StructuredText",
+          "config": {
+            "single": "heading1",
+            "label": "Title",
+            "placeholder": "This is where it all begins..."
+          }
+        },
+        "description": {
+          "type": "StructuredText",
+          "config": {
+            "single": "paragraph",
+            "label": "Description",
+            "placeholder": "A nice description of your feature"
+          }
+        }
+      },
+      "items": {
+        "heading": {
+          "config": {
+            "label": "Heading",
+            "placeholder": ""
+          },
+          "type": "Text"
+        },
+        "citation": {
+          "config": {
+            "label": "Citation",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "single": "paragraph,strong,em,hyperlink"
+          },
+          "type": "StructuredText"
+        },
+        "author": {
+          "config": {
+            "label": "Author",
+            "placeholder": ""
+          },
+          "type": "Text"
+        },
+        "position": {
+          "config": {
+            "label": "Job Position",
+            "placeholder": ""
+          },
+          "type": "Text"
+        },
+        "image": {
+          "config": {
+            "label": "Image",
+            "constraint": {},
+            "thumbnails": []
+          },
+          "type": "Image"
+        }
+      }
+    }
+  ]
+}
