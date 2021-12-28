@@ -1,11 +1,55 @@
 import * as NextImage from 'next/image';
 
-const OriginalNextImage = NextImage.default;
-
-Object.defineProperty(NextImage, 'default', {
-  configurable: true,
-  value: (props) => <OriginalNextImage {...props} unoptimized />,
-});
+const customViewports = {
+  mobile1: {
+    name: 'xs',
+    styles: {
+      height: '640px',
+      width: '360px',
+    },
+    type: 'mobile',
+  },
+  mobile2: {
+    name: 'sm',
+    styles: {
+      height: '1136px',
+      width: '640px',
+    },
+    type: 'mobile',
+  },
+  tablet1: {
+    name: 'md',
+    styles: {
+      height: '1024px',
+      width: '768px',
+    },
+    type: 'tablet',
+  },
+  tablet2: {
+    name: 'lg',
+    styles: {
+      height: '768px',
+      width: '1024px',
+    },
+    type: 'tablet',
+  },
+  desktop1: {
+    name: 'xl',
+    styles: {
+      height: '720px',
+      width: '1280px',
+    },
+    type: 'desktop',
+  },
+  desktop2: {
+    name: '2xl',
+    styles: {
+      height: '1080px',
+      width: '1920px',
+    },
+    type: 'desktop',
+  },
+};
 
 export const parameters = {
   actions: { argTypesRegex: '^on[A-Z].*' },
@@ -13,6 +57,11 @@ export const parameters = {
     matchers: {
       color: /(background|color)$/i,
       date: /Date$/,
+    },
+  },
+  viewport: {
+    viewports: {
+      ...customViewports,
     },
   },
 };
@@ -37,3 +86,9 @@ export const parameters = {
 //   configurable: true,
 //   value: (props) => <OriginalNextImage {...props} unoptimized />,
 // });
+const OriginalNextImage = NextImage.default;
+
+Object.defineProperty(NextImage, 'default', {
+  configurable: true,
+  value: (props) => <OriginalNextImage {...props} unoptimized />,
+});
