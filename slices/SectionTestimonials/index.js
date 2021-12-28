@@ -1,5 +1,6 @@
 import React from 'react';
 import { RichText } from 'prismic-reactjs';
+import Image from 'next/image';
 
 const SectionTestimonials = ({ slice }) => (
   <section>
@@ -21,6 +22,15 @@ const SectionTestimonials = ({ slice }) => (
           <span>{item.position}</span>
 
           <img src={item.image.url} alt={item.image.alt} />
+          <div className="relative aspect-square w-full">
+            <Image
+              src={item.image.url}
+              alt={item.image.alt}
+              layout="fill"
+              objectFit="cover"
+              objectPosition="center"
+            />
+          </div>
         </div>
       ))}
     </div>
