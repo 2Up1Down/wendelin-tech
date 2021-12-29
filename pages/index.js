@@ -1,6 +1,11 @@
 import Head from 'next/head';
+import SliceZone from 'next-slicezone';
 
-export default function Home() {
+import Client from '../utils/prismicHelpers';
+import * as Slices from '../slices';
+
+export default function Home({ page }) {
+  console.log(page);
   return (
     <div className="">
       <Head>
@@ -13,9 +18,24 @@ export default function Home() {
         <p>Main</p>
       </main>
 
+      {page?.data && (
+        <SliceZone slices={page.data.slices} resolver={({ sliceName }) => Slices[sliceName]} />
+      )}
+
       <footer className="">
         <p>Footer</p>
       </footer>
     </div>
   );
+}
+
+export async function getStaticProps() {
+  const page = await Client().getByUID('page', 'home');
+  console.log(page);
+
+  return {
+    props: {
+      page,
+    },
+  };
 }
