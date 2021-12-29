@@ -1,24 +1,7 @@
 {
-  "slices": {
-    "SectionSnap": {
-      "default-slice": {
-        "primary": {}
-      }
-    },
-    "SectionTestimonials": {
-      "default-slice": {
-        "items": {
-          "citation": {
-            "config": {
-              "patternType": "PARAGRAPH",
-              "blocks": 1
-            }
-          },
-          "image": {
-            "content": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80"
-          }
-        }
-      }
-    }
+  "slices": {},
+  "_cts": {
+    "home": {},
+    "page": {}
   }
 }
