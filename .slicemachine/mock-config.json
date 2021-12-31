@@ -1,7 +1,12 @@
 {
-  "slices": {},
+  "slices": {
+    "SectionTestimonials": {
+      "default-slice": {
+        "items": {}
+      }
+    }
+  },
   "_cts": {
-    "home": {},
     "page": {}
   }
 }

@@ -29,13 +29,6 @@
         }
       },
       "items": {
-        "heading": {
-          "config": {
-            "label": "Heading",
-            "placeholder": ""
-          },
-          "type": "Text"
-        },
         "citation": {
           "config": {
             "label": "Citation",
