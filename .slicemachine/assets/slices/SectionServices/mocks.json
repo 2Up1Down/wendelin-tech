@@ -1,0 +1,109 @@
+[
+  {
+    "variation": "default-slice",
+    "name": "Default slice",
+    "slice_type": "section_services",
+    "items": [
+      {
+        "title": "architect proactive paradigms",
+        "description": [
+          {
+            "type": "paragraph",
+            "text": "Incididunt magna laboris quis fugiat ea consequat voluptate aliqua duis ea cillum fugiat.",
+            "spans": []
+          }
+        ],
+        "image": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1607582278043-57198ac8da43?w=900&h=500&fit=crop"
+        },
+        "icon": {
+          "link_type": "media",
+          "url": "https://source.unsplash.com/daily"
+        },
+        "buttonText": "drive sexy communities",
+        "link": {
+          "link_type": "Web",
+          "url": "http://twitter.com"
+        }
+      },
+      {
+        "title": "morph customized systems",
+        "description": [
+          {
+            "type": "paragraph",
+            "text": "Voluptate ea non in cupidatat deserunt excepteur elit. Officia qui mollit elit ullamco magna id pariatur do incididunt excepteur adipisicing. Enim anim ipsum aliqua consectetur.",
+            "spans": []
+          }
+        ],
+        "image": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1547394765-185e1e68f34e?w=900&h=500&fit=crop"
+        },
+        "icon": {
+          "link_type": "media",
+          "url": "https://source.unsplash.com/daily"
+        },
+        "buttonText": "transform granular blockchains",
+        "link": {
+          "link_type": "Web",
+          "url": "https://slicemachine.dev"
+        }
+      },
+      {
+        "title": "transform compelling supply-chains",
+        "description": [
+          {
+            "type": "paragraph",
+            "text": "Nostrud incididunt ipsum excepteur ea et exercitation eu eiusmod magna ipsum duis dolor. Mollit et veniam nisi sunt sit aliqua occaecat occaecat pariatur proident cillum.",
+            "spans": []
+          }
+        ],
+        "image": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1491975474562-1f4e30bc9468?w=900&h=500&fit=crop"
+        },
+        "icon": {
+          "link_type": "media",
+          "url": "https://source.unsplash.com/daily"
+        },
+        "buttonText": "maximize proactive blockchains",
+        "link": {
+          "link_type": "Web",
+          "url": "http://twitter.com"
+        }
+      }
+    ],
+    "primary": {
+      "title": [
+        {
+          "type": "heading1",
+          "text": "Implement integrated paradigms",
+          "spans": []
+        }
+      ],
+      "description": [
+        {
+          "type": "paragraph",
+          "text": "Ullamco consectetur id cupidatat magna nulla duis exercitation enim reprehenderit deserunt magna ut officia. Eiusmod consectetur commodo fugiat sunt ad quis. Officia sit exercitation tempor cupidatat consequat.",
+          "spans": []
+        }
+      ]
+    }
+  }
+]
