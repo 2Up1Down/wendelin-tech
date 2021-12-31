@@ -29,6 +29,9 @@
             },
             "section_testimonials": {
               "type": "SharedSlice"
+            },
+            "section_services": {
+              "type": "SharedSlice"
             }
           }
         }
