@@ -2,7 +2,6 @@ import React from 'react';
 import Image from 'next/image';
 
 const Icon = ({ icon }) => {
-  console.log(icon);
   if (!icon.url) return <></>;
 
   return (

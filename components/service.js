@@ -10,7 +10,7 @@ const Service = ({ service }) => {
       <div>
         {icon && <Icon icon={icon} />}
         {title && <h3>{title}</h3>}
-        {image.url && (
+        {image?.url && (
           <div className="relative aspect-square w-1/2 rounded-full overflow-hidden mb-2">
             <Image
               src={image.url}
