@@ -5,11 +5,11 @@
     "slice_type": "section_projects",
     "items": [
       {
-        "title": "innovate 24/365 vortals",
+        "title": "extend one-to-one paradigms",
         "description": [
           {
             "type": "paragraph",
-            "text": "Do qui magna deserunt et Lorem est adipisicing voluptate pariatur ipsum aute.",
+            "text": "Amet laboris id est sint. Nisi fugiat pariatur voluptate eiusmod ad.",
             "spans": []
           }
         ],
@@ -20,21 +20,22 @@
           },
           "alt": "Placeholder image",
           "copyright": null,
-          "url": "https://images.unsplash.com/photo-1600861194802-a2b11076bc51?w=900&h=500&fit=crop"
+          "url": "https://images.unsplash.com/photo-1471897488648-5eae4ac6686b?w=900&h=500&fit=crop"
         },
-        "customer": "synthesize leading-edge web services",
+        "customer": "leverage e-business infomediaries",
         "link": {
           "link_type": "Web",
-          "url": "http://google.com"
+          "url": "http://twitter.com"
         },
-        "technologies": "exploit out-of-the-box content"
+        "technologies": "innovate distributed systems",
+        "services": "monetize clicks-and-mortar relationships"
       },
       {
-        "title": "generate extensible web-readiness",
+        "title": "target frictionless models",
         "description": [
           {
             "type": "paragraph",
-            "text": "Culpa sit elit consectetur ex anim Lorem ad.",
+            "text": "Occaecat enim non adipisicing consectetur. Enim irure voluptate sit ex adipisicing velit deserunt anim quis ipsum.",
             "spans": []
           }
         ],
@@ -45,53 +46,55 @@
           },
           "alt": "Placeholder image",
           "copyright": null,
-          "url": "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?w=900&h=500&fit=crop"
+          "url": "https://images.unsplash.com/photo-1587613865763-4b8b0d19e8ab?w=900&h=500&fit=crop"
         },
-        "customer": "whiteboard extensible partnerships",
+        "customer": "maximize impactful e-services",
+        "link": {
+          "link_type": "Web",
+          "url": "https://prismic.io"
+        },
+        "technologies": "engineer proactive users",
+        "services": "drive best-of-breed solutions"
+      },
+      {
+        "title": "reinvent bricks-and-clicks models",
+        "description": [
+          {
+            "type": "paragraph",
+            "text": "Veniam deserunt irure duis occaecat dolor labore occaecat excepteur sit irure.",
+            "spans": []
+          }
+        ],
+        "image": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1606248897732-2c5ffe759c04?w=900&h=500&fit=crop"
+        },
+        "customer": "unleash best-of-breed convergence",
         "link": {
           "link_type": "Web",
           "url": "https://slicemachine.dev"
         },
-        "technologies": "expedite virtual e-business"
-      },
-      {
-        "title": "brand 24/365 applications",
-        "description": [
-          {
-            "type": "paragraph",
-            "text": "Officia ad mollit minim quis ex fugiat incididunt.",
-            "spans": []
-          }
-        ],
-        "image": {
-          "dimensions": {
-            "width": 900,
-            "height": 500
-          },
-          "alt": "Placeholder image",
-          "copyright": null,
-          "url": "https://images.unsplash.com/photo-1587653915936-5623ea0b949a?w=900&h=500&fit=crop"
-        },
-        "customer": "exploit leading-edge deliverables",
-        "link": {
-          "link_type": "Web",
-          "url": "http://google.com"
-        },
-        "technologies": "matrix vertical models"
+        "technologies": "engineer web-enabled architectures",
+        "services": "cultivate efficient synergies"
       }
     ],
     "primary": {
       "title": [
         {
           "type": "heading1",
-          "text": "Disintermediate synergistic solutions",
+          "text": "Seize granular schemas",
           "spans": []
         }
       ],
       "description": [
         {
           "type": "paragraph",
-          "text": "Velit ut sunt ipsum excepteur eu mollit incididunt reprehenderit magna est laboris consequat velit nostrud. Nisi est laboris aliqua consectetur minim consectetur dolor sunt. Est officia minim sunt commodo ut sit sunt eu.",
+          "text": "Ipsum ipsum labore id voluptate sunt fugiat culpa amet.",
           "spans": []
         }
       ]

@@ -75,6 +75,13 @@
             "placeholder": ""
           },
           "type": "Text"
+        },
+        "services": {
+          "config": {
+            "label": "Services",
+            "placeholder": ""
+          },
+          "type": "Text"
         }
       }
     }
