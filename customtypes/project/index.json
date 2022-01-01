@@ -1,0 +1,60 @@
+{
+  "id": "project",
+  "label": "Project",
+  "repeatable": true,
+  "status": true,
+  "json": {
+    "Summary": {
+      "customer": {
+        "config": {
+          "label": "Customer",
+          "placeholder": ""
+        },
+        "type": "Text"
+      },
+      "title": {
+        "config": {
+          "label": "Title",
+          "placeholder": ""
+        },
+        "type": "Text"
+      },
+      "extract": {
+        "config": {
+          "label": "Extract",
+          "placeholder": "",
+          "allowTargetBlank": true,
+          "single": "paragraph,hyperlink,strong"
+        },
+        "type": "StructuredText"
+      },
+      "image": {
+        "config": {
+          "label": "Image",
+          "constraint": {},
+          "thumbnails": []
+        },
+        "type": "Image"
+      },
+      "link": {
+        "config": {
+          "label": "Link",
+          "placeholder": "",
+          "select": "web",
+          "allowTargetBlank": false
+        },
+        "type": "Link"
+      },
+      "Technologies": {
+        "config": {
+          "label": "Technologies",
+          "customtypes": [
+            "technology"
+          ],
+          "select": "document"
+        },
+        "type": "Link"
+      }
+    }
+  }
+}
