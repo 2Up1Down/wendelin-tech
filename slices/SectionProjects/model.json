@@ -79,9 +79,11 @@
         "services": {
           "config": {
             "label": "Services",
-            "placeholder": ""
+            "placeholder": "",
+            "select": "web",
+            "allowTargetBlank": false
           },
-          "type": "Text"
+          "type": "Link"
         }
       }
     }

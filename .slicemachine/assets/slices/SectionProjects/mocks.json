@@ -5,11 +5,11 @@
     "slice_type": "section_projects",
     "items": [
       {
-        "title": "extend one-to-one paradigms",
+        "title": "synthesize turn-key networks",
         "description": [
           {
             "type": "paragraph",
-            "text": "Amet laboris id est sint. Nisi fugiat pariatur voluptate eiusmod ad.",
+            "text": "Ipsum ut esse esse esse quis velit sint est esse nisi tempor proident aliqua. Sint irure dolore qui aute incididunt ad tempor anim veniam ipsum. Id pariatur proident labore veniam eiusmod nisi ipsum Lorem.",
             "spans": []
           }
         ],
@@ -20,48 +20,25 @@
           },
           "alt": "Placeholder image",
           "copyright": null,
-          "url": "https://images.unsplash.com/photo-1471897488648-5eae4ac6686b?w=900&h=500&fit=crop"
+          "url": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?w=900&h=500&fit=crop"
         },
-        "customer": "leverage e-business infomediaries",
+        "customer": "streamline distributed content",
         "link": {
           "link_type": "Web",
-          "url": "http://twitter.com"
+          "url": "http://google.com"
         },
-        "technologies": "innovate distributed systems",
-        "services": "monetize clicks-and-mortar relationships"
-      },
-      {
-        "title": "target frictionless models",
-        "description": [
-          {
-            "type": "paragraph",
-            "text": "Occaecat enim non adipisicing consectetur. Enim irure voluptate sit ex adipisicing velit deserunt anim quis ipsum.",
-            "spans": []
-          }
-        ],
-        "image": {
-          "dimensions": {
-            "width": 900,
-            "height": 500
-          },
-          "alt": "Placeholder image",
-          "copyright": null,
-          "url": "https://images.unsplash.com/photo-1587613865763-4b8b0d19e8ab?w=900&h=500&fit=crop"
-        },
-        "customer": "maximize impactful e-services",
-        "link": {
+        "technologies": "innovate innovative convergence",
+        "services": {
           "link_type": "Web",
-          "url": "https://prismic.io"
-        },
-        "technologies": "engineer proactive users",
-        "services": "drive best-of-breed solutions"
+          "url": "https://slicemachine.dev"
+        }
       },
       {
-        "title": "reinvent bricks-and-clicks models",
+        "title": "monetize cutting-edge portals",
         "description": [
           {
             "type": "paragraph",
-            "text": "Veniam deserunt irure duis occaecat dolor labore occaecat excepteur sit irure.",
+            "text": "Aute excepteur magna aliquip sunt veniam pariatur sit labore culpa ullamco pariatur sint exercitation magna magna.",
             "spans": []
           }
         ],
@@ -72,29 +49,90 @@
           },
           "alt": "Placeholder image",
           "copyright": null,
-          "url": "https://images.unsplash.com/photo-1606248897732-2c5ffe759c04?w=900&h=500&fit=crop"
+          "url": "https://images.unsplash.com/photo-1586952518485-11b180e92764?w=900&h=500&fit=crop"
         },
-        "customer": "unleash best-of-breed convergence",
+        "customer": "maximize virtual platforms",
         "link": {
           "link_type": "Web",
           "url": "https://slicemachine.dev"
         },
-        "technologies": "engineer web-enabled architectures",
-        "services": "cultivate efficient synergies"
+        "technologies": "maximize customized interfaces",
+        "services": {
+          "link_type": "Web",
+          "url": "http://twitter.com"
+        }
+      },
+      {
+        "title": "recontextualize visionary content",
+        "description": [
+          {
+            "type": "paragraph",
+            "text": "Id dolor nostrud sunt ipsum excepteur occaecat qui nostrud sunt quis officia.",
+            "spans": []
+          }
+        ],
+        "image": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1593642532973-d31b6557fa68?w=900&h=500&fit=crop"
+        },
+        "customer": "extend strategic models",
+        "link": {
+          "link_type": "Web",
+          "url": "http://twitter.com"
+        },
+        "technologies": "reintermediate mission-critical portals",
+        "services": {
+          "link_type": "Web",
+          "url": "http://twitter.com"
+        }
+      },
+      {
+        "title": "drive user-centric interfaces",
+        "description": [
+          {
+            "type": "paragraph",
+            "text": "Sunt tempor ex non reprehenderit ex deserunt et Lorem laboris. Occaecat consequat sint eu eu consectetur dolor minim consequat in aliqua eiusmod do labore ipsum ea.",
+            "spans": []
+          }
+        ],
+        "image": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=900&h=500&fit=crop"
+        },
+        "customer": "empower user-centric markets",
+        "link": {
+          "link_type": "Web",
+          "url": "https://slicemachine.dev"
+        },
+        "technologies": "brand dynamic models",
+        "services": {
+          "link_type": "Web",
+          "url": "http://google.com"
+        }
       }
     ],
     "primary": {
       "title": [
         {
           "type": "heading1",
-          "text": "Seize granular schemas",
+          "text": "Facilitate viral experiences",
           "spans": []
         }
       ],
       "description": [
         {
           "type": "paragraph",
-          "text": "Ipsum ipsum labore id voluptate sunt fugiat culpa amet.",
+          "text": "Fugiat ut officia anim non minim id cupidatat amet id est in et.",
           "spans": []
         }
       ]
