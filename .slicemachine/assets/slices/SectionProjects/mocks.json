@@ -1,0 +1,100 @@
+[
+  {
+    "variation": "default-slice",
+    "name": "Default slice",
+    "slice_type": "section_projects",
+    "items": [
+      {
+        "title": "innovate 24/365 vortals",
+        "description": [
+          {
+            "type": "paragraph",
+            "text": "Do qui magna deserunt et Lorem est adipisicing voluptate pariatur ipsum aute.",
+            "spans": []
+          }
+        ],
+        "image": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1600861194802-a2b11076bc51?w=900&h=500&fit=crop"
+        },
+        "customer": "synthesize leading-edge web services",
+        "link": {
+          "link_type": "Web",
+          "url": "http://google.com"
+        },
+        "technologies": "exploit out-of-the-box content"
+      },
+      {
+        "title": "generate extensible web-readiness",
+        "description": [
+          {
+            "type": "paragraph",
+            "text": "Culpa sit elit consectetur ex anim Lorem ad.",
+            "spans": []
+          }
+        ],
+        "image": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?w=900&h=500&fit=crop"
+        },
+        "customer": "whiteboard extensible partnerships",
+        "link": {
+          "link_type": "Web",
+          "url": "https://slicemachine.dev"
+        },
+        "technologies": "expedite virtual e-business"
+      },
+      {
+        "title": "brand 24/365 applications",
+        "description": [
+          {
+            "type": "paragraph",
+            "text": "Officia ad mollit minim quis ex fugiat incididunt.",
+            "spans": []
+          }
+        ],
+        "image": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1587653915936-5623ea0b949a?w=900&h=500&fit=crop"
+        },
+        "customer": "exploit leading-edge deliverables",
+        "link": {
+          "link_type": "Web",
+          "url": "http://google.com"
+        },
+        "technologies": "matrix vertical models"
+      }
+    ],
+    "primary": {
+      "title": [
+        {
+          "type": "heading1",
+          "text": "Disintermediate synergistic solutions",
+          "spans": []
+        }
+      ],
+      "description": [
+        {
+          "type": "paragraph",
+          "text": "Velit ut sunt ipsum excepteur eu mollit incididunt reprehenderit magna est laboris consequat velit nostrud. Nisi est laboris aliqua consectetur minim consectetur dolor sunt. Est officia minim sunt commodo ut sit sunt eu.",
+          "spans": []
+        }
+      ]
+    }
+  }
+]
