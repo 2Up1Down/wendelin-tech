@@ -2,14 +2,7 @@
   "slices": {
     "SectionProjects": {
       "default-slice": {
-        "items": {
-          "description": {
-            "config": {
-              "patternType": "PARAGRAPH",
-              "blocks": 1
-            }
-          }
-        }
+        "items": {}
       }
     }
   },

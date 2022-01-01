@@ -1,14 +1,14 @@
 {
-  "id": "b8afcba0-f834-4681-9cf8-c255b958455f",
-  "uid": "dolorum-dolores-numquam",
+  "id": "79c585e6-8835-48bf-8c22-1044822b153d",
+  "uid": "sequi-et-rerum",
   "type": "project",
   "data": {
-    "customer": "engage e-business systems",
-    "title": "e-enable granular blockchains",
+    "customer": "extend integrated architectures",
+    "title": "enable compelling functionalities",
     "extract": [
       {
         "type": "paragraph",
-        "text": "Irure reprehenderit excepteur quis occaecat est duis dolor in eiusmod voluptate dolore velit anim ad ad. Cillum do non sit fugiat aute nostrud Lorem. Id quis ea ex qui incididunt enim eu nisi dolore sunt ex.",
+        "text": "Sint cillum anim proident incididunt. Voluptate irure ea pariatur consequat eu labore dolore ipsum amet. Pariatur adipisicing duis occaecat est laborum excepteur do sit ut.",
         "spans": []
       }
     ],
@@ -19,15 +19,12 @@
       },
       "alt": "Placeholder image",
       "copyright": null,
-      "url": "https://images.unsplash.com/photo-1560457079-9a6532ccb118?w=900&h=500&fit=crop"
+      "url": "https://images.unsplash.com/photo-1560762484-813fc97650a0?w=900&h=500&fit=crop"
     },
     "link": {
       "link_type": "Web",
-      "url": "https://slicemachine.dev"
+      "url": "https://prismic.io"
     },
-    "Technologies": {
-      "link_type": "Web",
-      "url": "http://google.com"
-    }
+    "technologies": "grow global relationships"
   }
 }

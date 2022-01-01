@@ -29,59 +29,13 @@
         }
       },
       "items": {
-        "title": {
+        "project": {
           "config": {
-            "label": "Title",
-            "placeholder": ""
-          },
-          "type": "Text"
-        },
-        "description": {
-          "config": {
-            "label": "Description",
-            "placeholder": "",
-            "allowTargetBlank": true,
-            "single": "paragraph,strong,hyperlink"
-          },
-          "type": "StructuredText"
-        },
-        "image": {
-          "config": {
-            "label": "Image",
-            "constraint": {},
-            "thumbnails": []
-          },
-          "type": "Image"
-        },
-        "customer": {
-          "config": {
-            "label": "Customer",
-            "placeholder": ""
-          },
-          "type": "Text"
-        },
-        "link": {
-          "config": {
-            "label": "Link",
-            "placeholder": "",
-            "select": "web",
-            "allowTargetBlank": false
-          },
-          "type": "Link"
-        },
-        "technologies": {
-          "config": {
-            "label": "Technologies",
-            "placeholder": ""
-          },
-          "type": "Text"
-        },
-        "services": {
-          "config": {
-            "label": "Services",
-            "placeholder": "",
-            "select": "web",
-            "allowTargetBlank": false
+            "label": "Project",
+            "customtypes": [
+              "project"
+            ],
+            "select": "document"
           },
           "type": "Link"
         }

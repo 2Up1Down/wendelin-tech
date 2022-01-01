@@ -45,15 +45,12 @@
         },
         "type": "Link"
       },
-      "Technologies": {
+      "technologies": {
         "config": {
           "label": "Technologies",
-          "customtypes": [
-            "technology"
-          ],
-          "select": "document"
+          "placeholder": ""
         },
-        "type": "Link"
+        "type": "Text"
       }
     }
   }
