@@ -10,9 +10,9 @@ const Header = ({ title, subtitle }) => {
         </h2>
       )}
       {subtitle && (
-        <p className="">
+        <h4 className="">
           <RichText render={subtitle} />
-        </p>
+        </h4>
       )}
     </header>
   );
