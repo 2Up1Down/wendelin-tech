@@ -3,7 +3,6 @@ import Testimonial from '../../components/testimonial';
 import Header from '../../components/header';
 
 const SectionTestimonials = ({ slice }) => {
-  console.log(slice.items[0].image.url);
   return (
     <section className="bg-gray-100">
       <div className="container flex flex-col items-center">

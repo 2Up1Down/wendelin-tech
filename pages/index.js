@@ -5,7 +5,6 @@ import Client from '../utils/prismicHelpers';
 import * as Slices from '../slices';
 
 export default function Home({ page }) {
-  console.log(page);
   return (
     <div className="">
       <Head>
@@ -33,7 +32,6 @@ export async function getStaticProps() {
   const fetchLinks = `project.customer, project.title, project.extract, project.image, project.technologies, project.link, 
      service.title, service.extract, service.image, service.link, service.icon, service.buttonText`;
   const page = await Client().getByUID('page', 'home', { fetchLinks });
-  console.log(page);
 
   return {
     props: {
