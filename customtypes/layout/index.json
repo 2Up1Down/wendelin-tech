@@ -1,0 +1,69 @@
+{
+  "id": "layout",
+  "label": "Layout",
+  "repeatable": false,
+  "status": true,
+  "json": {
+    "Header": {
+      "headerLogo": {
+        "config": {
+          "label": "Header Logo",
+          "constraint": {},
+          "thumbnails": []
+        },
+        "type": "Image"
+      },
+      "tagline": {
+        "config": {
+          "label": "Tagline",
+          "placeholder": ""
+        },
+        "type": "Text"
+      }
+    },
+    "Footer": {
+      "footerLinks": {
+        "config": {
+          "label": "Footer Links",
+          "placeholder": "",
+          "fields": {
+            "label": {
+              "config": {
+                "label": "Label",
+                "placeholder": ""
+              },
+              "type": "Text"
+            },
+            "link": {
+              "config": {
+                "label": "Link",
+                "placeholder": "",
+                "select": "web",
+                "allowTargetBlank": false
+              },
+              "type": "Link"
+            }
+          }
+        },
+        "type": "Group"
+      },
+      "footerLogo": {
+        "config": {
+          "label": "Footer Logo",
+          "constraint": {},
+          "thumbnails": []
+        },
+        "type": "Image"
+      },
+      "footerText": {
+        "config": {
+          "label": "Footer Text",
+          "placeholder": "Footer text",
+          "allowTargetBlank": true,
+          "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+        },
+        "type": "StructuredText"
+      }
+    }
+  }
+}

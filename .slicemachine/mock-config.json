@@ -21,6 +21,15 @@
           "blocks": 1
         }
       }
+    },
+    "layout": {
+      "footerLinks": {},
+      "footerText": {
+        "config": {
+          "patternType": "PARAGRAPH",
+          "blocks": 1
+        }
+      }
     }
   }
 }

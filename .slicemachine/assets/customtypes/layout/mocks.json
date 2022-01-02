@@ -1,0 +1,63 @@
+{
+  "id": "0e5d8df0-9037-4ff0-8cac-f37ab499a1f7",
+  "uid": "consectetur-et-suscipit",
+  "type": "layout",
+  "data": {
+    "headerLogo": {
+      "dimensions": {
+        "width": 900,
+        "height": 500
+      },
+      "alt": "Placeholder image",
+      "copyright": null,
+      "url": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?w=900&h=500&fit=crop"
+    },
+    "tagline": "synthesize seamless models",
+    "footerLogo": {
+      "dimensions": {
+        "width": 900,
+        "height": 500
+      },
+      "alt": "Placeholder image",
+      "copyright": null,
+      "url": "https://images.unsplash.com/photo-1560762484-813fc97650a0?w=900&h=500&fit=crop"
+    },
+    "footerText": [
+      {
+        "type": "paragraph",
+        "text": "Qui anim minim labore occaecat duis adipisicing nostrud culpa quis mollit esse incididunt veniam. Reprehenderit proident eiusmod tempor aute pariatur aliqua veniam culpa tempor dolore velit enim non.",
+        "spans": []
+      }
+    ],
+    "footerLinks": [
+      {
+        "label": "exploit strategic communities",
+        "link": {
+          "link_type": "Web",
+          "url": "http://google.com"
+        }
+      },
+      {
+        "label": "redefine open-source ROI",
+        "link": {
+          "link_type": "Web",
+          "url": "http://twitter.com"
+        }
+      },
+      {
+        "label": "reinvent cutting-edge schemas",
+        "link": {
+          "link_type": "Web",
+          "url": "https://prismic.io"
+        }
+      },
+      {
+        "label": "engineer sexy infomediaries",
+        "link": {
+          "link_type": "Web",
+          "url": "https://slicemachine.dev"
+        }
+      }
+    ]
+  }
+}
