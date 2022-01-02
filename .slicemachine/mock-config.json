@@ -8,6 +8,14 @@
   },
   "_cts": {
     "page": {},
-    "project": {}
+    "project": {},
+    "service": {
+      "extract": {
+        "config": {
+          "patternType": "PARAGRAPH",
+          "blocks": 1
+        }
+      }
+    }
   }
 }

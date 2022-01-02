@@ -1,0 +1,58 @@
+{
+  "id": "service",
+  "label": "Service",
+  "repeatable": true,
+  "status": true,
+  "json": {
+    "Summary": {
+      "title": {
+        "config": {
+          "label": "Title",
+          "placeholder": ""
+        },
+        "type": "Text"
+      },
+      "extract": {
+        "config": {
+          "label": "Extract",
+          "placeholder": "",
+          "allowTargetBlank": true,
+          "single": "paragraph,hyperlink,strong"
+        },
+        "type": "StructuredText"
+      },
+      "image": {
+        "config": {
+          "label": "Image",
+          "constraint": {},
+          "thumbnails": []
+        },
+        "type": "Image"
+      },
+      "icon": {
+        "config": {
+          "label": "Icon",
+          "placeholder": "",
+          "select": "media"
+        },
+        "type": "Link"
+      },
+      "buttonText": {
+        "config": {
+          "label": "Button Text",
+          "placeholder": ""
+        },
+        "type": "Text"
+      },
+      "link": {
+        "config": {
+          "label": "Link",
+          "placeholder": "",
+          "select": "web",
+          "allowTargetBlank": false
+        },
+        "type": "Link"
+      }
+    }
+  }
+}
