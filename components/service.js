@@ -4,7 +4,7 @@ import { RichText } from 'prismic-reactjs';
 import Image from 'next/image';
 
 const Service = ({ service }) => {
-  const { title, description, image, icon, buttonText } = service;
+  const { title, extract, image, icon, buttonText } = service;
   return (
     <article>
       <div>
@@ -21,7 +21,7 @@ const Service = ({ service }) => {
             />
           </div>
         )}
-        {description && <RichText render={description} />}
+        {extract && <RichText render={extract} />}
         {buttonText && <button>{buttonText}</button>}
       </div>
     </article>

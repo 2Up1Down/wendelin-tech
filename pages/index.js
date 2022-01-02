@@ -30,8 +30,8 @@ export default function Home({ page }) {
 }
 
 export async function getStaticProps() {
-  const fetchLinks =
-    'project.customer, project.title, project.extract, project.image, project.technologies, project.link';
+  const fetchLinks = `project.customer, project.title, project.extract, project.image, project.technologies, project.link, 
+     service.title, service.extract, service.image, service.link, service.icon, service.buttonText`;
   const page = await Client().getByUID('page', 'home', { fetchLinks });
   console.log(page);
 
