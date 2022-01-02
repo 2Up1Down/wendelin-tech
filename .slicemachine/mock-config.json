@@ -4,6 +4,11 @@
       "default-slice": {
         "items": {}
       }
+    },
+    "SectionServices": {
+      "default-slice": {
+        "items": {}
+      }
     }
   },
   "_cts": {

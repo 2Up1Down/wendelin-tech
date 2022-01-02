@@ -29,51 +29,13 @@
         }
       },
       "items": {
-        "title": {
+        "service": {
           "config": {
-            "label": "Title",
-            "placeholder": ""
-          },
-          "type": "Text"
-        },
-        "description": {
-          "config": {
-            "label": "Description",
-            "placeholder": "",
-            "allowTargetBlank": true,
-            "single": "paragraph,strong,hyperlink,em"
-          },
-          "type": "StructuredText"
-        },
-        "image": {
-          "config": {
-            "label": "Image",
-            "constraint": {},
-            "thumbnails": []
-          },
-          "type": "Image"
-        },
-        "icon": {
-          "config": {
-            "label": "Icon",
-            "placeholder": "",
-            "select": "media"
-          },
-          "type": "Link"
-        },
-        "buttonText": {
-          "config": {
-            "label": "Button Text",
-            "placeholder": ""
-          },
-          "type": "Text"
-        },
-        "link": {
-          "config": {
-            "label": "Link",
-            "placeholder": "",
-            "select": "web",
-            "allowTargetBlank": false
+            "label": "Service",
+            "customtypes": [
+              "service"
+            ],
+            "select": "document"
           },
           "type": "Link"
         }
