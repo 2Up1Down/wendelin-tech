@@ -5,5 +5,5 @@ export default {
 }
 
 
-export const _DefaultSlice = () => <MyComponent slice={{"variation":"default-slice","name":"Default slice","slice_type":"section_projects","items":[{"project":{"link_type":"Web","url":"http://twitter.com"}},{"project":{"link_type":"Web","url":"http://google.com"}},{"project":{"link_type":"Web","url":"https://prismic.io"}}],"primary":{"title":[{"type":"heading1","text":"Monetize viral content","spans":[]}],"description":[{"type":"paragraph","text":"Magna nostrud elit do reprehenderit pariatur adipisicing ex ipsum dolor ex aliqua deserunt commodo laborum. Eiusmod mollit enim esse ut ex consequat.","spans":[]}]},"id":"_DefaultSlice"}} />
+export const _DefaultSlice = () => <MyComponent slice={{"variation":"default-slice","name":"Default slice","slice_type":"section_projects","items":[{"project":{"link_type":"Web","url":"http://google.com"}},{"project":{"link_type":"Web","url":"https://prismic.io"}},{"project":{"link_type":"Web","url":"http://google.com"}},{"project":{"link_type":"Web","url":"https://slicemachine.dev"}}],"primary":{"title":[{"type":"heading1","text":"Leverage holistic interfaces","spans":[]}],"description":[{"type":"paragraph","text":"Tempor sunt veniam enim eiusmod ipsum elit ullamco.","spans":[]}]},"id":"_DefaultSlice"}} />
 _DefaultSlice.storyName = 'Default slice'

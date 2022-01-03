@@ -32,6 +32,9 @@
             },
             "section_services": {
               "type": "SharedSlice"
+            },
+            "section_projects": {
+              "type": "SharedSlice"
             }
           }
         }

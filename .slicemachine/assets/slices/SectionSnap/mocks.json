@@ -5,41 +5,16 @@
     "slice_type": "section_snap",
     "items": [
       {
-        "title": "target synergistic deliverables",
-        "subtitle": "envisioneer scalable functionalities",
+        "title": "redefine plug-and-play initiatives",
+        "subtitle": "cultivate global niches",
         "description": [
           {
             "type": "paragraph",
-            "text": "Voluptate laboris veniam velit exercitation eiusmod magna eiusmod mollit labore incididunt aliqua. Cillum ea incididunt sit cillum aliquip qui ex consequat.",
+            "text": "Aliquip consectetur eiusmod ut ullamco do occaecat labore sunt elit sunt.",
             "spans": []
           }
         ],
-        "buttonText": "redefine distributed e-services",
-        "buttonLink": {
-          "link_type": "Web",
-          "url": "http://google.com"
-        },
-        "image": {
-          "dimensions": {
-            "width": 900,
-            "height": 500
-          },
-          "alt": "Placeholder image",
-          "copyright": null,
-          "url": "https://images.unsplash.com/photo-1600804931749-2da4ce26c869?w=900&h=500&fit=crop"
-        }
-      },
-      {
-        "title": "target clicks-and-mortar methodologies",
-        "subtitle": "disintermediate cutting-edge e-commerce",
-        "description": [
-          {
-            "type": "paragraph",
-            "text": "Lorem aliquip voluptate culpa nulla cillum occaecat officia tempor cillum. Velit aute exercitation exercitation esse laborum elit commodo esse nulla. Officia excepteur proident excepteur id.",
-            "spans": []
-          }
-        ],
-        "buttonText": "benchmark sticky markets",
+        "buttonText": "generate mission-critical e-commerce",
         "buttonLink": {
           "link_type": "Web",
           "url": "https://prismic.io"
@@ -51,20 +26,20 @@
           },
           "alt": "Placeholder image",
           "copyright": null,
-          "url": "https://images.unsplash.com/photo-1606248897732-2c5ffe759c04?w=900&h=500&fit=crop"
+          "url": "https://images.unsplash.com/photo-1544731612-de7f96afe55f?w=900&h=500&fit=crop"
         }
       },
       {
-        "title": "matrix cross-media niches",
-        "subtitle": "matrix mission-critical e-tailers",
+        "title": "cultivate turn-key synergies",
+        "subtitle": "transition web-enabled blockchains",
         "description": [
           {
             "type": "paragraph",
-            "text": "Deserunt excepteur minim tempor id. Ea dolor laboris irure incididunt dolore. Adipisicing exercitation est ea reprehenderit et ullamco dolore aliquip pariatur ipsum consequat commodo id.",
+            "text": "Anim aliqua pariatur velit consequat et aliqua non voluptate est enim exercitation velit. Fugiat nulla anim mollit. Occaecat aliqua do qui laboris.",
             "spans": []
           }
         ],
-        "buttonText": "disintermediate visionary communities",
+        "buttonText": "orchestrate real-time partnerships",
         "buttonLink": {
           "link_type": "Web",
           "url": "https://slicemachine.dev"
@@ -76,23 +51,23 @@
           },
           "alt": "Placeholder image",
           "copyright": null,
-          "url": "https://images.unsplash.com/photo-1593642532973-d31b6557fa68?w=900&h=500&fit=crop"
+          "url": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?w=900&h=500&fit=crop"
         }
       },
       {
-        "title": "scale viral web services",
-        "subtitle": "iterate sticky initiatives",
+        "title": "streamline revolutionary web services",
+        "subtitle": "redefine 24/7 schemas",
         "description": [
           {
             "type": "paragraph",
-            "text": "Quis non ex voluptate consequat ut cupidatat occaecat sit exercitation minim ex ipsum adipisicing do.",
+            "text": "Ipsum aute veniam laborum aute ipsum cillum nisi ut irure. Esse dolor ullamco deserunt sint excepteur mollit culpa amet cupidatat est velit sint mollit.",
             "spans": []
           }
         ],
-        "buttonText": "revolutionize leading-edge partnerships",
+        "buttonText": "engage cross-platform blockchains",
         "buttonLink": {
           "link_type": "Web",
-          "url": "https://slicemachine.dev"
+          "url": "https://prismic.io"
         },
         "image": {
           "dimensions": {
@@ -101,7 +76,32 @@
           },
           "alt": "Placeholder image",
           "copyright": null,
-          "url": "https://images.unsplash.com/photo-1600861194802-a2b11076bc51?w=900&h=500&fit=crop"
+          "url": "https://images.unsplash.com/photo-1586952518485-11b180e92764?w=900&h=500&fit=crop"
+        }
+      },
+      {
+        "title": "streamline innovative initiatives",
+        "subtitle": "benchmark 24/7 metrics",
+        "description": [
+          {
+            "type": "paragraph",
+            "text": "Reprehenderit ut sint laboris eu mollit pariatur culpa dolore est.",
+            "spans": []
+          }
+        ],
+        "buttonText": "revolutionize frictionless web services",
+        "buttonLink": {
+          "link_type": "Web",
+          "url": "http://twitter.com"
+        },
+        "image": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1601933973783-43cf8a7d4c5f?w=900&h=500&fit=crop"
         }
       }
     ],
