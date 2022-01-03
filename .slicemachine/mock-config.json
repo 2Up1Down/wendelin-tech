@@ -16,6 +16,19 @@
           }
         }
       }
+    },
+    "SectionSnap": {
+      "default-slice": {
+        "items": {
+          "description": {
+            "config": {
+              "patternType": "PARAGRAPH",
+              "blocks": 1
+            }
+          }
+        },
+        "primary": {}
+      }
     }
   },
   "_cts": {
