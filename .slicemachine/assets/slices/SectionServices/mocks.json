@@ -5,15 +5,59 @@
     "slice_type": "section_services",
     "items": [
       {
-        "service": {
+        "title": "generate revolutionary functionalities",
+        "extract": [
+          {
+            "type": "paragraph",
+            "text": "Eu laborum labore id dolore quis. Tempor cillum occaecat do velit quis laborum voluptate elit ad qui veniam qui dolore aute.",
+            "spans": []
+          }
+        ],
+        "image": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1537498425277-c283d32ef9db?w=900&h=500&fit=crop"
+        },
+        "icon": {
+          "link_type": "media",
+          "url": "https://source.unsplash.com/daily"
+        },
+        "buttonText": "brand open-source metrics",
+        "Link": {
           "link_type": "Web",
-          "url": "http://twitter.com"
+          "url": "https://slicemachine.dev"
         }
       },
       {
-        "service": {
+        "title": "envisioneer integrated models",
+        "extract": [
+          {
+            "type": "paragraph",
+            "text": "Commodo elit veniam nulla Lorem nulla non consectetur cupidatat sunt commodo incididunt consequat. Ea ea Lorem aliqua dolore ullamco magna incididunt sunt sunt sit ipsum voluptate aute culpa.",
+            "spans": []
+          }
+        ],
+        "image": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1544731612-de7f96afe55f?w=900&h=500&fit=crop"
+        },
+        "icon": {
+          "link_type": "media",
+          "url": "https://source.unsplash.com/daily"
+        },
+        "buttonText": "envisioneer customized infrastructures",
+        "Link": {
           "link_type": "Web",
-          "url": "http://google.com"
+          "url": "https://slicemachine.dev"
         }
       }
     ],
@@ -21,14 +65,14 @@
       "title": [
         {
           "type": "heading1",
-          "text": "Incentivize visionary e-commerce",
+          "text": "Integrate sticky solutions",
           "spans": []
         }
       ],
       "description": [
         {
           "type": "paragraph",
-          "text": "Excepteur id elit non enim elit non exercitation veniam Lorem non ex eiusmod laboris eu laboris. Irure aliquip exercitation ad nostrud cupidatat qui nostrud cupidatat est magna. Et est eu culpa id proident exercitation reprehenderit enim esse elit nisi est do ad eiusmod.",
+          "text": "Elit proident laboris eu ullamco ea ad proident sit tempor veniam est ex minim. Ipsum esse adipisicing labore velit tempor aute eiusmod dolor dolor.",
           "spans": []
         }
       ]
