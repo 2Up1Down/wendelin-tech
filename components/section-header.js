@@ -1,7 +1,7 @@
 import React from 'react';
 import { RichText } from 'prismic-reactjs';
 
-const Header = ({ title, subtitle }) => {
+const SectionHeader = ({ title, subtitle }) => {
   return (
     <header>
       {title && (
@@ -18,4 +18,4 @@ const Header = ({ title, subtitle }) => {
   );
 };
 
-export default Header;
+export default SectionHeader;
