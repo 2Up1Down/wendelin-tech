@@ -23,7 +23,7 @@ export default function Home({ page, layout }) {
 
 export async function getStaticProps() {
   const fetchLinks = `project.customer, project.title, project.extract, project.image, project.technologies, project.link`;
-  const page = await Client().getByUID('page', 'home', { fetchLinks });
+  const page = await Client().getByUID('homepage', 'home', { fetchLinks });
   const layout = (await Client().getByUID('layout', 'default', {})) || {};
 
   return {
