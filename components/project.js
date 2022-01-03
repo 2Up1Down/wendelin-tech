@@ -1,9 +1,11 @@
 import React from 'react';
 import { RichText } from 'prismic-reactjs';
 import Image from 'next/image';
+import Link from 'next/link';
 
 const Project = ({ project }) => {
   const { customer, title, extract, image, technologies, link } = project;
+
   return (
     <article>
       <div>
@@ -22,7 +24,11 @@ const Project = ({ project }) => {
         )}
         {extract && <RichText render={extract} />}
         {technologies && <p>{technologies}</p>}
-        {link && <p>{link}</p>}
+        {link && (
+          <Link href={link.url}>
+            <a target="_blank">mehr erfahren</a>
+          </Link>
+        )}
       </div>
     </article>
   );

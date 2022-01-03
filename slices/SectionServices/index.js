@@ -3,7 +3,6 @@ import Header from '../../components/header';
 import Service from '../../components/service';
 
 const SectionServices = ({ slice }) => {
-  console.log(slice.items);
   return (
     <section className="bg-gray-400">
       <div className="container flex flex-col items-center">

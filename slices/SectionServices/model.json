@@ -71,7 +71,7 @@
         "Link": {
           "config": {
             "label": "Link",
-            "placeholder": "https://...",
+            "placeholder": "",
             "select": "web",
             "allowTargetBlank": false
           },
