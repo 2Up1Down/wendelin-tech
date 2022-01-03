@@ -1,6 +1,7 @@
 import React from 'react';
 
-const Header = () => {
+const Header = ({ menu, logo }) => {
+  console.log(menu);
   return <header>-- this is the header--</header>;
 };
 
