@@ -42,9 +42,7 @@
             "link": {
               "config": {
                 "label": "Link",
-                "placeholder": "",
-                "select": "web",
-                "allowTargetBlank": false
+                "placeholder": ""
               },
               "type": "Link"
             }
