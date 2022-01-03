@@ -4,7 +4,6 @@ import Header from './header';
 
 const Layout = ({ data, children }) => {
   const { headerLogo, menuLinks, footerLinks, footerLogo, footerText } = data;
-  console.log(menuLinks);
 
   return (
     <>

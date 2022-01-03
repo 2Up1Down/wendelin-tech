@@ -3,7 +3,6 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 const NavBrand = ({ logo }) => {
-  console.log(logo);
   return (
     <div>
       <Link href="/">
