@@ -6,7 +6,7 @@ import Image from 'next/image';
 const SectionSnap = ({ slice }) => {
   // console.log(slice.items);
   return (
-    <section className="max-h-screen overflow-y-scroll snap-y snap-mandatory">
+    <section className="max-h-screen overflow-y-scroll snap-y snap-mandatory container-snap">
       <div className="">
         {slice?.items?.map((snap, i) => (
           <article key={i} className="h-screen snap-center odd:bg-gray-100 even:bg-white">
@@ -29,6 +29,18 @@ const SectionSnap = ({ slice }) => {
           </article>
         ))}
       </div>
+      <style jsx>{`
+        /* Hide scrollbar for Chrome, Safari and Opera */
+        .container-snap::-webkit-scrollbar {
+          display: none;
+        }
+
+        /* Hide scrollbar for IE, Edge and Firefox */
+        .container-snap {
+          -ms-overflow-style: none; /* IE and Edge */
+          scrollbar-width: none; /* Firefox */
+        }
+      `}</style>
     </section>
   );
 };
