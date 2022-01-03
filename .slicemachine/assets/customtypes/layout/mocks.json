@@ -1,6 +1,6 @@
 {
-  "id": "0b297209-041a-4160-89d0-a7f7b259493a",
-  "uid": "fugit-id-officiis",
+  "id": "a708bbba-a9dc-4fd8-b4bc-ce1d70600288",
+  "uid": "deserunt-eum-eius",
   "type": "layout",
   "data": {
     "headerLogo": {
@@ -10,33 +10,26 @@
       },
       "alt": "Placeholder image",
       "copyright": null,
-      "url": "https://images.unsplash.com/photo-1593642532973-d31b6557fa68?w=900&h=500&fit=crop"
+      "url": "https://images.unsplash.com/photo-1544731612-de7f96afe55f?w=900&h=500&fit=crop"
     },
-    "tagline": "incubate e-business markets",
+    "tagline": "engineer value-added ROI",
     "menuLinks": [
       {
-        "linkLabel": "target killer metrics",
+        "linkLabel": "incubate bleeding-edge technologies",
         "link": {
           "link_type": "Web",
-          "url": "https://slicemachine.dev"
+          "url": "http://twitter.com"
         }
       },
       {
-        "linkLabel": "benchmark ubiquitous networks",
+        "linkLabel": "evolve holistic systems",
         "link": {
           "link_type": "Web",
-          "url": "https://slicemachine.dev"
+          "url": "http://google.com"
         }
       },
       {
-        "linkLabel": "reintermediate back-end niches",
-        "link": {
-          "link_type": "Web",
-          "url": "https://slicemachine.dev"
-        }
-      },
-      {
-        "linkLabel": "repurpose one-to-one communities",
+        "linkLabel": "redefine next-generation systems",
         "link": {
           "link_type": "Web",
           "url": "http://google.com"
@@ -50,49 +43,49 @@
       },
       "alt": "Placeholder image",
       "copyright": null,
-      "url": "https://images.unsplash.com/photo-1576662712957-9c79ae1280f8?w=900&h=500&fit=crop"
+      "url": "https://images.unsplash.com/photo-1607582278043-57198ac8da43?w=900&h=500&fit=crop"
     },
     "footerText": [
       {
         "type": "paragraph",
-        "text": "Esse occaecat aute incididunt reprehenderit fugiat ipsum exercitation. Reprehenderit occaecat adipisicing commodo nostrud nostrud nulla commodo Lorem cillum labore labore consectetur velit ex magna.",
+        "text": "Nostrud nisi anim ut aliqua exercitation excepteur qui do culpa incididunt et ullamco ea incididunt. Enim est commodo ex irure ut sunt est pariatur voluptate sint in quis labore. Ut consectetur veniam dolore amet laborum proident minim laborum.",
         "spans": []
       }
     ],
     "footerLinks": [
       {
-        "label": "iterate value-added experiences",
+        "label": "strategize B2C web-readiness",
         "link": {
           "link_type": "Web",
           "url": "https://slicemachine.dev"
         }
       },
       {
-        "label": "syndicate real-time action-items",
+        "label": "incentivize interactive partnerships",
         "link": {
           "link_type": "Web",
           "url": "http://twitter.com"
         }
       },
       {
-        "label": "embrace extensible architectures",
+        "label": "monetize B2B mindshare",
         "link": {
           "link_type": "Web",
-          "url": "https://prismic.io"
+          "url": "https://slicemachine.dev"
         }
       },
       {
-        "label": "embrace ubiquitous web services",
+        "label": "exploit turn-key mindshare",
         "link": {
           "link_type": "Web",
           "url": "http://google.com"
         }
       },
       {
-        "label": "recontextualize ubiquitous e-tailers",
+        "label": "facilitate end-to-end supply-chains",
         "link": {
           "link_type": "Web",
-          "url": "http://twitter.com"
+          "url": "http://google.com"
         }
       }
     ]

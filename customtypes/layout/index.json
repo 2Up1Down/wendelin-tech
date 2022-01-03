@@ -5,6 +5,13 @@
   "status": true,
   "json": {
     "Header": {
+      "uid": {
+        "config": {
+          "label": "Layout Type",
+          "placeholder": ""
+        },
+        "type": "UID"
+      },
       "headerLogo": {
         "config": {
           "label": "Header Logo",
