@@ -19,6 +19,31 @@
           "placeholder": ""
         },
         "type": "Text"
+      },
+      "menuLinks": {
+        "config": {
+          "label": "Menu Links",
+          "placeholder": "",
+          "fields": {
+            "linkLabel": {
+              "config": {
+                "label": "Link Label",
+                "placeholder": ""
+              },
+              "type": "Text"
+            },
+            "link": {
+              "config": {
+                "label": "Link",
+                "placeholder": "",
+                "select": "web",
+                "allowTargetBlank": false
+              },
+              "type": "Link"
+            }
+          }
+        },
+        "type": "Group"
       }
     },
     "Footer": {
