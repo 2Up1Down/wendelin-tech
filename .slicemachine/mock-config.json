@@ -4,31 +4,6 @@
       "default-slice": {
         "items": {}
       }
-    },
-    "SectionServices": {
-      "default-slice": {
-        "items": {
-          "extract": {
-            "config": {
-              "patternType": "PARAGRAPH",
-              "blocks": 1
-            }
-          }
-        }
-      }
-    },
-    "SectionSnap": {
-      "default-slice": {
-        "items": {
-          "description": {
-            "config": {
-              "patternType": "PARAGRAPH",
-              "blocks": 1
-            }
-          }
-        },
-        "primary": {}
-      }
     }
   },
   "_cts": {
