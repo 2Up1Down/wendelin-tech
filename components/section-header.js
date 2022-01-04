@@ -2,7 +2,7 @@ import React from 'react';
 
 const SectionHeader = ({ title, subtitle }) => {
   return (
-    <header>
+    <header className="text-center">
       {title && <h2 className="text-2xl">{title}</h2>}
       {subtitle && <h4 className="">{subtitle}</h4>}
     </header>
