@@ -7,13 +7,7 @@
       {
         "project": {
           "link_type": "Web",
-          "url": "https://slicemachine.dev"
-        }
-      },
-      {
-        "project": {
-          "link_type": "Web",
-          "url": "https://prismic.io"
+          "url": "http://google.com"
         }
       },
       {
@@ -21,23 +15,29 @@
           "link_type": "Web",
           "url": "http://twitter.com"
         }
+      },
+      {
+        "project": {
+          "link_type": "Web",
+          "url": "http://google.com"
+        }
+      },
+      {
+        "project": {
+          "link_type": "Web",
+          "url": "http://twitter.com"
+        }
+      },
+      {
+        "project": {
+          "link_type": "Web",
+          "url": "https://prismic.io"
+        }
       }
     ],
     "primary": {
-      "title": [
-        {
-          "type": "heading1",
-          "text": "Revolutionize dynamic supply-chains",
-          "spans": []
-        }
-      ],
-      "description": [
-        {
-          "type": "paragraph",
-          "text": "Veniam eiusmod aute amet officia adipisicing cillum. Ipsum adipisicing tempor do sunt qui dolor labore irure.",
-          "spans": []
-        }
-      ]
+      "title": "envisioneer B2B synergies",
+      "subtitle": "drive B2C users"
     }
   }
 ]

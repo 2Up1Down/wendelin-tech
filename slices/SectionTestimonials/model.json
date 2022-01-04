@@ -12,20 +12,18 @@
       "description": "SectionTestimonials",
       "primary": {
         "title": {
-          "type": "StructuredText",
           "config": {
-            "single": "heading1",
             "label": "Title",
-            "placeholder": "This is where it all begins..."
-          }
+            "placeholder": ""
+          },
+          "type": "Text"
         },
-        "description": {
-          "type": "StructuredText",
+        "subtitle": {
           "config": {
-            "single": "paragraph",
-            "label": "Description",
-            "placeholder": "A nice description of your feature"
-          }
+            "label": "Subtitle",
+            "placeholder": ""
+          },
+          "type": "Text"
         }
       },
       "items": {
