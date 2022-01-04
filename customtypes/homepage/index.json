@@ -35,6 +35,9 @@
             },
             "section_projects": {
               "type": "SharedSlice"
+            },
+            "call_to_action": {
+              "type": "SharedSlice"
             }
           }
         }

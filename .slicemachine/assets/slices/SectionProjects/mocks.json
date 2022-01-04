@@ -7,7 +7,7 @@
       {
         "project": {
           "link_type": "Web",
-          "url": "http://google.com"
+          "url": "https://slicemachine.dev"
         }
       },
       {
@@ -19,13 +19,7 @@
       {
         "project": {
           "link_type": "Web",
-          "url": "http://google.com"
-        }
-      },
-      {
-        "project": {
-          "link_type": "Web",
-          "url": "https://slicemachine.dev"
+          "url": "http://twitter.com"
         }
       }
     ],
@@ -33,14 +27,14 @@
       "title": [
         {
           "type": "heading1",
-          "text": "Leverage holistic interfaces",
+          "text": "Revolutionize dynamic supply-chains",
           "spans": []
         }
       ],
       "description": [
         {
           "type": "paragraph",
-          "text": "Tempor sunt veniam enim eiusmod ipsum elit ullamco.",
+          "text": "Veniam eiusmod aute amet officia adipisicing cillum. Ipsum adipisicing tempor do sunt qui dolor labore irure.",
           "spans": []
         }
       ]
