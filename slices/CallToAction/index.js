@@ -4,7 +4,7 @@ import Link from 'next/link';
 import Image from 'next/image';
 
 const CallToAction = ({ slice }) => {
-  console.log(slice);
+  // console.log(slice);
   return (
     <section className={slice.variation}>
       <div className="container h-full flex flex-col text-white justify-center items-center">
@@ -19,11 +19,11 @@ const CallToAction = ({ slice }) => {
         </div>
         <RichText render={slice.primary.title} />
         <RichText render={slice.primary.description} />
-        <button>
-          <Link href={slice.primary.buttonLink}>
-            <a>{slice.primary.buttonLabel}</a>
-          </Link>
-        </button>
+        {/*<button>*/}
+        {/*  <Link href={slice.primary.buttonLink}>*/}
+        {/*    <a>{slice.primary.buttonLabel}</a>*/}
+        {/*  </Link>*/}
+        {/*</button>*/}
       </div>
       <style jsx>{`
         .default-slice {
@@ -34,7 +34,7 @@ const CallToAction = ({ slice }) => {
         .withBackgroundImage {
           height: 100vh;
           background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-            url(${slice.primary.backgroundImage.url}) no-repeat center;
+            url(${slice.primary.backgroundImage.url || ''}) no-repeat center;
         }
       `}</style>
     </section>

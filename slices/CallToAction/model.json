@@ -50,14 +50,6 @@
             "thumbnails": []
           },
           "type": "Image"
-        },
-        "backgroundImage": {
-          "config": {
-            "label": "Background Image",
-            "constraint": {},
-            "thumbnails": []
-          },
-          "type": "Image"
         }
       },
       "items": {}
