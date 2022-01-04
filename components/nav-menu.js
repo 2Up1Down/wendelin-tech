@@ -5,8 +5,8 @@ const NavMenu = ({ menu }) => {
   return (
     <div className="hidden sm:block">
       <ul className="flex space-x-4">
-        {menu.map((item) => (
-          <NavItem key={item.url} item={item} />
+        {menu.map((item, i) => (
+          <NavItem key={i} item={item} />
         ))}
       </ul>
     </div>
