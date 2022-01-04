@@ -4,9 +4,10 @@ import Link from 'next/link';
 import Image from 'next/image';
 
 const CallToAction = ({ slice }) => {
+  console.log(slice);
   return (
-    <section className="background-cta">
-      <div className="container flex flex-col h-screen text-white justify-center items-center">
+    <section className={slice.variation}>
+      <div className="container h-full flex flex-col text-white justify-center items-center">
         <div className="h-64 w-64 relative">
           <Image
             src={slice.primary.iconImage.url}
@@ -25,7 +26,13 @@ const CallToAction = ({ slice }) => {
         </button>
       </div>
       <style jsx>{`
-        .background-cta {
+        .default-slice {
+          background: #cccccc;
+          padding: 2rem 0;
+        }
+
+        .withBackgroundImage {
+          height: 100vh;
           background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
             url(${slice.primary.backgroundImage.url}) no-repeat center;
         }

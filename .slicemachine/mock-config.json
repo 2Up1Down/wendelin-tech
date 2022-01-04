@@ -1,5 +1,11 @@
 {
-  "slices": {},
+  "slices": {
+    "CallToAction": {
+      "default-slice": {
+        "primary": {}
+      }
+    }
+  },
   "_cts": {
     "page": {},
     "project": {},
