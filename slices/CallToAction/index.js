@@ -34,7 +34,7 @@ const CallToAction = ({ slice }) => {
         .withBackgroundImage {
           height: 100vh;
           background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-            url(${slice.primary.backgroundImage.url || ''}) no-repeat center;
+            url(${slice?.primary?.backgroundImage?.url || ''}) no-repeat center;
         }
       `}</style>
     </section>
