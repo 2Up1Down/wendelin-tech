@@ -10,6 +10,17 @@ export const customLink = (type, element, content, children, index) => (
   </Link>
 );
 
+export const manageLocal = (locales, locale) => {
+  // Languages from API response
+  // // Setting Master language as default language option
+  const mainLanguage = locales[0];
+  // // Sets current language based on the locale
+  const currentLang = locale !== undefined ? locale : mainLanguage;
+  const isMyMainLanguage = mainLanguage === currentLang;
+
+  return { mainLanguage, currentLang, isMyMainLanguage };
+};
+
 // -- @prismicio/client initialisation
 // Initialises the Prismic Client that's used for querying the API and passes it any query options.
 export const Client = (req = null) =>

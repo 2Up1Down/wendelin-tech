@@ -14,7 +14,10 @@ export const accessToken = '';
 // Manages the url links to internal Prismic documents
 export const linkResolver = (doc) => {
   if (doc.type === 'page') {
-    return `/${doc.uid}`;
+    return `/${doc.lang}/${doc.uid}`;
+  }
+  if (doc.type === 'homepage') {
+    return `/${doc.lang}`;
   }
   return '/';
 };

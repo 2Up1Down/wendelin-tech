@@ -14,6 +14,7 @@ const SectionProjects = ({ slice }) => {
             const {
               project: { data: projectData },
             } = item;
+
             return <Project key={i} project={projectData} />;
           })}
         </div>
