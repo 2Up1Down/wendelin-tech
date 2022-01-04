@@ -6,9 +6,15 @@ const NavBrand = ({ logo }) => {
   return (
     <div>
       <Link href="/">
-        <a className="flex place-items-center gap-2">
-          <div className="h-8 w-24 relative">
-            <Image src={logo.url} alt={logo.alt} layout="fill" objectFit="cover" />
+        <a className="">
+          <div className="h-16 w-64 relative">
+            <Image
+              src={logo.url}
+              alt={logo.alt}
+              layout="fill"
+              objectFit="contain"
+              className="object-left"
+            />
           </div>
         </a>
       </Link>
