@@ -5,7 +5,7 @@ import Client from '../utils/prismicHelpers';
 import * as Slices from '../slices';
 import Layout from '../components/layout';
 
-export default function Home({ page, layout }) {
+export default function Home({ doc, layout }) {
   return (
     <Layout data={layout.data}>
       <Head>
@@ -14,8 +14,8 @@ export default function Home({ page, layout }) {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      {page?.data && (
-        <SliceZone slices={page.data.slices} resolver={({ sliceName }) => Slices[sliceName]} />
+      {doc?.data && (
+        <SliceZone slices={doc.data.slices} resolver={({ sliceName }) => Slices[sliceName]} />
       )}
     </Layout>
   );
@@ -23,12 +23,12 @@ export default function Home({ page, layout }) {
 
 export async function getStaticProps() {
   const fetchLinks = `project.customer, project.title, project.extract, project.image, project.technologies, project.link`;
-  const page = await Client().getByUID('homepage', 'home', { fetchLinks });
+  const doc = await Client().getByUID('homepage', 'home', { fetchLinks });
   const layout = (await Client().getByUID('layout', 'default', {})) || {};
 
   return {
     props: {
-      page,
+      doc,
       layout,
     },
   };
