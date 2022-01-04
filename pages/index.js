@@ -24,7 +24,7 @@ export default function Home({ doc, layout }) {
 export async function getStaticProps({ locale, locales }) {
   const fetchLinks = `project.customer, project.title, project.extract, project.image, project.technologies, project.link`;
   const doc = await Client().getSingle('homepage', { fetchLinks, lang: locale });
-  const layout = (await Client().getByUID('layout', 'default', {})) || {};
+  const layout = (await Client().getSingle('layout', { lang: locale })) || {};
 
   const { currentLang, isMyMainLanguage } = manageLocal(locales, locale);
 
