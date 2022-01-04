@@ -1,0 +1,66 @@
+{
+  "id": "section_partners",
+  "type": "SharedSlice",
+  "name": "SectionPartners",
+  "description": "SectionPartners",
+  "variations": [
+    {
+      "id": "default-slice",
+      "name": "Default slice",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "SectionPartners",
+      "primary": {
+        "title": {
+          "config": {
+            "label": "Title",
+            "placeholder": ""
+          },
+          "type": "Text"
+        },
+        "subtitle": {
+          "config": {
+            "label": "Subtitle",
+            "placeholder": ""
+          },
+          "type": "Text"
+        }
+      },
+      "items": {
+        "name": {
+          "config": {
+            "label": "Company Name",
+            "placeholder": ""
+          },
+          "type": "Text"
+        },
+        "description": {
+          "config": {
+            "label": "Description",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "single": "paragraph"
+          },
+          "type": "StructuredText"
+        },
+        "logo": {
+          "config": {
+            "label": "Logo",
+            "constraint": {},
+            "thumbnails": []
+          },
+          "type": "Image"
+        },
+        "homepage": {
+          "config": {
+            "label": "Homepage",
+            "placeholder": "",
+            "select": "web",
+            "allowTargetBlank": false
+          },
+          "type": "Link"
+        }
+      }
+    }
+  ]
+}
