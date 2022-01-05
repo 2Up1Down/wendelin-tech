@@ -1,31 +1,28 @@
-import React from 'react'
-import { RichText } from 'prismic-reactjs'
+import React from 'react';
+import SectionHeader from '../../components/section-header';
+import Partner from '../../components/partner';
 
-const SectionPartners = ({ slice }) => (
-  <section>
-    <span className="title">
-      {
-        slice.primary.title ?
-        <RichText render={slice.primary.title}/>
-        : <h2>Template slice, update me!</h2>
-      }
-    </span>
-    {
-      slice.primary.description ?
-      <RichText render={slice.primary.description}/>
-      : <p>start by editing this slice from inside Prismic builder!</p>
-    }
-    <style jsx>{`
-        section {
-          max-width: 600px;
-          margin: 4em auto;
-          text-align: center;
-        }
-        .title {
-          color: #8592e0;
-        }
-    `}</style>
-  </section>
-)
+const SectionPartners = ({ slice }) => {
+  return (
+    <section className="bg-gray-400">
+      <div className="container flex flex-col items-center">
+        <div>
+          <SectionHeader title={slice.primary.title} subtitle={slice.primary.subtitle} />
+        </div>
+        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8">
+          {slice?.items?.map((partner, i) => (
+            <Partner
+              key={i}
+              description={partner.description}
+              name={partner.name}
+              homepage={partner.homepage}
+              logo={partner.logo}
+            />
+          ))}
+        </div>
+      </div>
+    </section>
+  );
+};
 
-export default SectionPartners
+export default SectionPartners;
