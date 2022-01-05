@@ -1,6 +1,6 @@
 {
-  "id": "a708bbba-a9dc-4fd8-b4bc-ce1d70600288",
-  "uid": "deserunt-eum-eius",
+  "id": "09d44b01-4743-455f-8988-b5d07658a9f9",
+  "uid": "assumenda-pariatur-alias",
   "type": "layout",
   "data": {
     "headerLogo": {
@@ -10,29 +10,43 @@
       },
       "alt": "Placeholder image",
       "copyright": null,
-      "url": "https://images.unsplash.com/photo-1544731612-de7f96afe55f?w=900&h=500&fit=crop"
+      "url": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?w=900&h=500&fit=crop"
     },
-    "tagline": "engineer value-added ROI",
+    "tagline": "harness wireless markets",
     "menuLinks": [
       {
-        "linkLabel": "incubate bleeding-edge technologies",
+        "linkLabel": "matrix plug-and-play bandwidth",
+        "link": {
+          "link_type": "Web",
+          "url": "http://google.com"
+        }
+      },
+      {
+        "linkLabel": "incentivize user-centric vortals",
+        "link": {
+          "link_type": "Web",
+          "url": "https://prismic.io"
+        }
+      },
+      {
+        "linkLabel": "deliver granular action-items",
+        "link": {
+          "link_type": "Web",
+          "url": "https://slicemachine.dev"
+        }
+      },
+      {
+        "linkLabel": "repurpose value-added metrics",
         "link": {
           "link_type": "Web",
           "url": "http://twitter.com"
         }
       },
       {
-        "linkLabel": "evolve holistic systems",
+        "linkLabel": "embrace viral bandwidth",
         "link": {
           "link_type": "Web",
-          "url": "http://google.com"
-        }
-      },
-      {
-        "linkLabel": "redefine next-generation systems",
-        "link": {
-          "link_type": "Web",
-          "url": "http://google.com"
+          "url": "http://twitter.com"
         }
       }
     ],
@@ -43,51 +57,56 @@
       },
       "alt": "Placeholder image",
       "copyright": null,
-      "url": "https://images.unsplash.com/photo-1607582278043-57198ac8da43?w=900&h=500&fit=crop"
+      "url": "https://images.unsplash.com/photo-1551739440-5dd934d3a94a?w=900&h=500&fit=crop"
     },
     "footerText": [
       {
         "type": "paragraph",
-        "text": "Nostrud nisi anim ut aliqua exercitation excepteur qui do culpa incididunt et ullamco ea incididunt. Enim est commodo ex irure ut sunt est pariatur voluptate sint in quis labore. Ut consectetur veniam dolore amet laborum proident minim laborum.",
+        "text": "Veniam in culpa qui veniam ad adipisicing cupidatat veniam aliqua enim.",
         "spans": []
       }
     ],
     "footerLinks": [
       {
-        "label": "strategize B2C web-readiness",
+        "label": "e-enable bleeding-edge partnerships",
         "link": {
           "link_type": "Web",
-          "url": "https://slicemachine.dev"
+          "url": "https://prismic.io"
         }
       },
       {
-        "label": "incentivize interactive partnerships",
+        "label": "revolutionize real-time experiences",
         "link": {
           "link_type": "Web",
           "url": "http://twitter.com"
         }
       },
       {
-        "label": "monetize B2B mindshare",
+        "label": "architect best-of-breed web-readiness",
         "link": {
           "link_type": "Web",
-          "url": "https://slicemachine.dev"
+          "url": "http://twitter.com"
         }
       },
       {
-        "label": "exploit turn-key mindshare",
-        "link": {
-          "link_type": "Web",
-          "url": "http://google.com"
-        }
-      },
-      {
-        "label": "facilitate end-to-end supply-chains",
+        "label": "integrate world-class portals",
         "link": {
           "link_type": "Web",
           "url": "http://google.com"
         }
       }
-    ]
+    ],
+    "github": {
+      "link_type": "Web",
+      "url": "https://slicemachine.dev"
+    },
+    "linkedin": {
+      "link_type": "Web",
+      "url": "http://twitter.com"
+    },
+    "instagram": {
+      "link_type": "Web",
+      "url": "https://prismic.io"
+    }
   }
 }

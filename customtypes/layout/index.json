@@ -94,6 +94,35 @@
         },
         "type": "StructuredText"
       }
+    },
+    "SocialMedia": {
+      "github": {
+        "config": {
+          "label": "GitHub",
+          "placeholder": "",
+          "select": "web",
+          "allowTargetBlank": false
+        },
+        "type": "Link"
+      },
+      "linkedin": {
+        "config": {
+          "label": "LinkedIn",
+          "placeholder": "",
+          "select": "web",
+          "allowTargetBlank": false
+        },
+        "type": "Link"
+      },
+      "instagram": {
+        "config": {
+          "label": "Instagram",
+          "placeholder": "",
+          "select": "web",
+          "allowTargetBlank": false
+        },
+        "type": "Link"
+      }
     }
   }
 }
