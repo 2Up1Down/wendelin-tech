@@ -1,6 +1,6 @@
 {
-  "id": "09d44b01-4743-455f-8988-b5d07658a9f9",
-  "uid": "assumenda-pariatur-alias",
+  "id": "513a0a02-134a-41b9-98c3-9d9f926f9367",
+  "uid": "quas-qui-laborum",
   "type": "layout",
   "data": {
     "headerLogo": {
@@ -10,43 +10,36 @@
       },
       "alt": "Placeholder image",
       "copyright": null,
-      "url": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?w=900&h=500&fit=crop"
+      "url": "https://images.unsplash.com/photo-1448932223592-d1fc686e76ea?w=900&h=500&fit=crop"
     },
-    "tagline": "harness wireless markets",
+    "tagline": "synthesize e-business web services",
     "menuLinks": [
       {
-        "linkLabel": "matrix plug-and-play bandwidth",
-        "link": {
-          "link_type": "Web",
-          "url": "http://google.com"
-        }
-      },
-      {
-        "linkLabel": "incentivize user-centric vortals",
-        "link": {
-          "link_type": "Web",
-          "url": "https://prismic.io"
-        }
-      },
-      {
-        "linkLabel": "deliver granular action-items",
+        "linkLabel": "monetize global mindshare",
         "link": {
           "link_type": "Web",
           "url": "https://slicemachine.dev"
         }
       },
       {
-        "linkLabel": "repurpose value-added metrics",
+        "linkLabel": "facilitate enterprise deliverables",
+        "link": {
+          "link_type": "Web",
+          "url": "https://prismic.io"
+        }
+      },
+      {
+        "linkLabel": "integrate impactful metrics",
         "link": {
           "link_type": "Web",
           "url": "http://twitter.com"
         }
       },
       {
-        "linkLabel": "embrace viral bandwidth",
+        "linkLabel": "deploy out-of-the-box e-markets",
         "link": {
           "link_type": "Web",
-          "url": "http://twitter.com"
+          "url": "https://prismic.io"
         }
       }
     ],
@@ -57,56 +50,49 @@
       },
       "alt": "Placeholder image",
       "copyright": null,
-      "url": "https://images.unsplash.com/photo-1551739440-5dd934d3a94a?w=900&h=500&fit=crop"
+      "url": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?w=900&h=500&fit=crop"
     },
     "footerText": [
       {
         "type": "paragraph",
-        "text": "Veniam in culpa qui veniam ad adipisicing cupidatat veniam aliqua enim.",
+        "text": "Fugiat est dolore magna deserunt proident aute aute labore nulla aliqua ea. Est nisi ex est consequat quis tempor occaecat sunt velit. Elit reprehenderit id dolor sit magna dolore officia mollit aliquip nisi sit pariatur qui laboris incididunt.",
         "spans": []
       }
     ],
     "footerLinks": [
       {
-        "label": "e-enable bleeding-edge partnerships",
+        "label": "seize B2C markets",
+        "link": {
+          "link_type": "Web",
+          "url": "https://slicemachine.dev"
+        }
+      },
+      {
+        "label": "optimize integrated initiatives",
+        "link": {
+          "link_type": "Web",
+          "url": "https://slicemachine.dev"
+        }
+      },
+      {
+        "label": "evolve virtual supply-chains",
         "link": {
           "link_type": "Web",
           "url": "https://prismic.io"
-        }
-      },
-      {
-        "label": "revolutionize real-time experiences",
-        "link": {
-          "link_type": "Web",
-          "url": "http://twitter.com"
-        }
-      },
-      {
-        "label": "architect best-of-breed web-readiness",
-        "link": {
-          "link_type": "Web",
-          "url": "http://twitter.com"
-        }
-      },
-      {
-        "label": "integrate world-class portals",
-        "link": {
-          "link_type": "Web",
-          "url": "http://google.com"
         }
       }
     ],
     "github": {
       "link_type": "Web",
-      "url": "https://slicemachine.dev"
+      "url": "https://prismic.io"
     },
     "linkedin": {
       "link_type": "Web",
-      "url": "http://twitter.com"
+      "url": "https://slicemachine.dev"
     },
     "instagram": {
       "link_type": "Web",
-      "url": "https://prismic.io"
+      "url": "http://twitter.com"
     }
   }
 }
