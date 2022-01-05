@@ -5,5 +5,5 @@ export default {
 }
 
 
-export const _DefaultSlice = () => <MyComponent slice={{"variation":"default-slice","name":"Default slice","slice_type":"section_projects","items":[{"project":{"link_type":"Web","url":"http://google.com"}},{"project":{"link_type":"Web","url":"http://twitter.com"}},{"project":{"link_type":"Web","url":"http://google.com"}},{"project":{"link_type":"Web","url":"http://twitter.com"}},{"project":{"link_type":"Web","url":"https://prismic.io"}}],"primary":{"title":"envisioneer B2B synergies","subtitle":"drive B2C users"},"id":"_DefaultSlice"}} />
+export const _DefaultSlice = () => <MyComponent slice={{"variation":"default-slice","name":"Default slice","slice_type":"section_projects","items":[{"project":{"link_type":"Web","url":"https://slicemachine.dev"}},{"project":{"link_type":"Web","url":"https://slicemachine.dev"}},{"project":{"link_type":"Web","url":"https://prismic.io"}},{"project":{"link_type":"Web","url":"http://google.com"}}],"primary":{"title":"monetize efficient eyeballs","subtitle":"deliver next-generation deliverables"},"id":"_DefaultSlice"}} />
 _DefaultSlice.storyName = 'Default slice'

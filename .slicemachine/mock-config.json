@@ -1,39 +1,5 @@
 {
-  "slices": {
-    "CallToAction": {
-      "default-slice": {
-        "primary": {}
-      }
-    },
-    "SectionServices": {
-      "default-slice": {
-        "primary": {}
-      }
-    },
-    "SectionProjects": {
-      "default-slice": {
-        "primary": {}
-      }
-    },
-    "SectionTestimonials": {
-      "default-slice": {
-        "primary": {}
-      }
-    },
-    "SectionPartners": {
-      "default-slice": {
-        "primary": {},
-        "items": {
-          "description": {
-            "config": {
-              "patternType": "PARAGRAPH",
-              "blocks": 1
-            }
-          }
-        }
-      }
-    }
-  },
+  "slices": {},
   "_cts": {
     "page": {},
     "project": {},

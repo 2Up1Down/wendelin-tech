@@ -38,6 +38,12 @@
             },
             "call_to_action": {
               "type": "SharedSlice"
+            },
+            "section_partners": {
+              "type": "SharedSlice"
+            },
+            "text": {
+              "type": "SharedSlice"
             }
           }
         }

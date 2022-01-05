@@ -8,22 +8,22 @@
       "title": [
         {
           "type": "heading1",
-          "text": "Innovate end-to-end web-readiness",
+          "text": "Matrix cross-media e-services",
           "spans": []
         }
       ],
       "description": [
         {
           "type": "paragraph",
-          "text": "Anim consequat occaecat occaecat anim ea non mollit ex.",
+          "text": "Laborum amet enim occaecat aliquip est eu amet velit do dolor officia.",
           "spans": []
         }
       ],
       "buttonLink": {
         "link_type": "Web",
-        "url": "http://google.com"
+        "url": "http://twitter.com"
       },
-      "buttonLabel": "aggregate distributed synergies",
+      "buttonLabel": "integrate rich models",
       "iconImage": {
         "dimensions": {
           "width": 900,
@@ -31,7 +31,7 @@
         },
         "alt": "Placeholder image",
         "copyright": null,
-        "url": "https://images.unsplash.com/photo-1589321599763-d66926c29613?w=900&h=500&fit=crop"
+        "url": "https://images.unsplash.com/photo-1547082299-de196ea013d6?w=900&h=500&fit=crop"
       }
     }
   },
@@ -44,22 +44,22 @@
       "title": [
         {
           "type": "heading1",
-          "text": "Harness killer initiatives",
+          "text": "Extend cutting-edge web services",
           "spans": []
         }
       ],
       "description": [
         {
           "type": "paragraph",
-          "text": "Officia nisi quis id cillum cillum.",
+          "text": "Laborum ullamco eiusmod aliqua do ad velit elit eiusmod minim sunt aliqua proident do deserunt. In eiusmod magna irure. In nisi fugiat occaecat est ea eiusmod.",
           "spans": []
         }
       ],
       "buttonLink": {
         "link_type": "Web",
-        "url": "https://prismic.io"
+        "url": "http://twitter.com"
       },
-      "buttonLabel": "unleash interactive channels",
+      "buttonLabel": "aggregate end-to-end platforms",
       "iconImage": {
         "dimensions": {
           "width": 900,
@@ -67,7 +67,7 @@
         },
         "alt": "Placeholder image",
         "copyright": null,
-        "url": "https://images.unsplash.com/photo-1596195689404-24d8a8d1c6ea?w=900&h=500&fit=crop"
+        "url": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=900&h=500&fit=crop"
       },
       "backgroundImage": {
         "dimensions": {
@@ -76,7 +76,7 @@
         },
         "alt": "Placeholder image",
         "copyright": null,
-        "url": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=900&h=500&fit=crop"
+        "url": "https://images.unsplash.com/photo-1571126770897-2d612d1f7b89?w=900&h=500&fit=crop"
       }
     }
   }

@@ -7,25 +7,13 @@
       {
         "project": {
           "link_type": "Web",
-          "url": "http://google.com"
+          "url": "https://slicemachine.dev"
         }
       },
       {
         "project": {
           "link_type": "Web",
-          "url": "http://twitter.com"
-        }
-      },
-      {
-        "project": {
-          "link_type": "Web",
-          "url": "http://google.com"
-        }
-      },
-      {
-        "project": {
-          "link_type": "Web",
-          "url": "http://twitter.com"
+          "url": "https://slicemachine.dev"
         }
       },
       {
@@ -33,11 +21,17 @@
           "link_type": "Web",
           "url": "https://prismic.io"
         }
+      },
+      {
+        "project": {
+          "link_type": "Web",
+          "url": "http://google.com"
+        }
       }
     ],
     "primary": {
-      "title": "envisioneer B2B synergies",
-      "subtitle": "drive B2C users"
+      "title": "monetize efficient eyeballs",
+      "subtitle": "deliver next-generation deliverables"
     }
   }
 ]
