@@ -4,7 +4,7 @@ import Link from 'next/link';
 import Image from 'next/image';
 
 const SectionSnap = ({ slice }) => {
-  // console.log(slice.items);
+  // console.log(slice.items.description);
   return (
     <section className="max-h-screen overflow-y-scroll snap-y snap-mandatory container-snap">
       <div className="">
