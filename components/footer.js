@@ -4,7 +4,6 @@ import { RichText } from 'prismic-reactjs';
 import SocialIcon from './social-icon';
 
 const Footer = ({ logo, menu, info, social }) => {
-  console.log(social);
   return (
     <footer>
       <div className="container flex flex-col place-items-center">
