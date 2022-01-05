@@ -1,14 +1,13 @@
 import React from 'react';
 import Prismic from '@prismicio/client';
 import SliceZone from 'next-slicezone';
-import Client from '../utils/prismicHelpers';
+import Client, { manageLocal } from '../utils/prismicHelpers';
 import * as Slices from '../slices';
 import Layout from '../components/layout';
 
 const PageTemplate = ({ doc, layout }) => {
-  console.log(doc);
   return (
-    <Layout data={layout.data}>
+    <Layout data={layout.data} altLangs={doc.alternate_languages}>
       {doc?.data && (
         <SliceZone slices={doc.data.slices} resolver={({ sliceName }) => Slices[sliceName]} />
       )}
@@ -16,16 +15,20 @@ const PageTemplate = ({ doc, layout }) => {
   );
 };
 
-export async function getStaticProps({ params }) {
-  const doc = await Client().getByUID('page', params.uid, { lang: params.lang });
-  const layout = (await Client().getByUID('layout', 'default', { lang: params.lang })) || {};
-  console.log('from [uid].js');
-  console.log(doc);
-  console.log(layout);
+export async function getStaticProps({ params, locale, locales }) {
+  const doc = (await Client().getByUID('page', params.uid, { lang: locale })) || {};
+  const layout = (await Client().getSingle('layout', { lang: locale })) || {};
+
+  const { currentLang, isMyMainLanguage } = manageLocal(locales, locale);
+
   return {
     props: {
       doc,
       layout,
+      lang: {
+        currentLang,
+        isMyMainLanguage,
+      },
     },
   };
 }
@@ -35,7 +38,7 @@ export async function getStaticPaths() {
 
   return {
     paths: docs.results.map((doc) => {
-      return { params: { uid: doc.uid, lang: doc.lang } };
+      return { params: { uid: doc.uid }, locale: doc.lang };
     }),
     fallback: false,
   };
